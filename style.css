@@ -48,6 +48,9 @@ section{
   background-color: white;
   padding: 0px 15px;
 }
+#exp{
+  color: lightcoral;
+}
 .experience-area{
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
